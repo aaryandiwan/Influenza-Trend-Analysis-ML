@@ -11,6 +11,12 @@ influenza activity patterns across multiple countries.
 - Coverage: Global, multi-year
 - Data Type: Aggregated laboratory surveillance data
 
+- ## Dataset Access
+The WHO Influenza dataset is large and cannot be uploaded directly.
+It can be downloaded from the official WHO website:
+https://www.who.int/teams/global-influenza-programme/surveillance-and-monitoring/influenza-surveillance
+
+
 ## Techniques Used
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
