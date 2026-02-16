@@ -1,4 +1,4 @@
-# Predicting Seasonal Influenza Using Machine Learning
+# EpiPredict
 
 ## Project Overview
 This project analyzes seasonal influenza trends using the WHO Influenza Surveillance dataset.
